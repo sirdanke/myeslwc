@@ -1,0 +1,818 @@
+[
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app",
+        {
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1568692615433,
+            "changeTime": 1568692615433,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main",
+        {
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1568692615433,
+            "changeTime": 1568692615433,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1568700773750,
+            "changeTime": 1568700773750,
+            "contentHash": "5bf797a99c7097d8557ea4a356d29bfddb34e84d"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1568692615433,
+            "changeTime": 1568692615433,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1568693152924,
+            "changeTime": 1568693152924,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc",
+        {
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1568693149110,
+            "changeTime": 1568693149110,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets/Country.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets/Country.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1188,
+            "modifiedTime": 1568700773629,
+            "changeTime": 1568700773629,
+            "contentHash": "64f46fd911373eaefa32027f6582a27a8eaf6819"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets/State.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets/State.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6586,
+            "modifiedTime": 1568700773636,
+            "changeTime": 1568700773636,
+            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets/Reservation_Status.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets/Reservation_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 911,
+            "modifiedTime": 1568700773637,
+            "changeTime": 1568700773637,
+            "contentHash": "60c5b9a150476fae8507ab8981fdea11d5ec7b48"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets/Types.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets/Types.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1526,
+            "modifiedTime": 1568700773639,
+            "changeTime": 1568700773639,
+            "contentHash": "058c4bdd82d69d8ce330112760c323f851c2cd8e"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/Market__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/Market__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2057,
+            "modifiedTime": 1568700773651,
+            "changeTime": 1568700773651,
+            "contentHash": "d8e2e5f9bfbb88047ec5012f0424ef36072a7c78"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 353,
+            "modifiedTime": 1568700773651,
+            "changeTime": 1568700773651,
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1568700773651,
+            "changeTime": 1568700773651,
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1568700773651,
+            "changeTime": 1568700773651,
+            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1568700773652,
+            "changeTime": 1568700773652,
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/Total_Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields/Total_Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 491,
+            "modifiedTime": 1568700773652,
+            "changeTime": 1568700773652,
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/Space__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/Space__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2063,
+            "modifiedTime": 1568700773662,
+            "changeTime": 1568700773662,
+            "contentHash": "1223e889b00423732a9aae0d73299392d3b6f4f8"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2331,
+            "modifiedTime": 1568700773663,
+            "changeTime": 1568700773663,
+            "contentHash": "ea0ea143fb63619995fb2122fc9c0a24817029c9"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1568700773663,
+            "changeTime": 1568700773663,
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 591,
+            "modifiedTime": 1568700773663,
+            "changeTime": 1568700773663,
+            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Maximum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Maximum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1568700773663,
+            "changeTime": 1568700773663,
+            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Minimum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Minimum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1568700773664,
+            "changeTime": 1568700773664,
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Picture_URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1568700773665,
+            "changeTime": 1568700773665,
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1568700773665,
+            "changeTime": 1568700773665,
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Predicted_Demand__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Predicted_Demand__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1568700773666,
+            "changeTime": 1568700773666,
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields/Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 464,
+            "modifiedTime": 1568700773666,
+            "changeTime": 1568700773666,
+            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/Reservation__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/Reservation__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2072,
+            "modifiedTime": 1568700773680,
+            "changeTime": 1568700773680,
+            "contentHash": "d1c6e6181eb16f3823d5fca2e0d451467f9c2029"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1568700773681,
+            "changeTime": 1568700773681,
+            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1568700773681,
+            "changeTime": 1568700773681,
+            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/End_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1568700773681,
+            "changeTime": 1568700773681,
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/End_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1568700773682,
+            "changeTime": 1568700773682,
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Lead__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Lead__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 499,
+            "modifiedTime": 1568700773682,
+            "changeTime": 1568700773682,
+            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1568700773682,
+            "changeTime": 1568700773682,
+            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Space__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Space__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 505,
+            "modifiedTime": 1568700773682,
+            "changeTime": 1568700773682,
+            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1568700773683,
+            "changeTime": 1568700773683,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Start_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1568700773683,
+            "changeTime": 1568700773683,
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1568700773683,
+            "changeTime": 1568700773683,
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Total_Number_Of_Guest__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields/Total_Number_Of_Guest__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 416,
+            "modifiedTime": 1568700773683,
+            "changeTime": 1568700773683,
+            "contentHash": "e4d83d3697b1efa649e81b089e220e4ec9da93ed"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Contact/fields/Reservation_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Contact/fields/Reservation_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1568700773691,
+            "changeTime": 1568700773691,
+            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9456,
+            "modifiedTime": 1568700773701,
+            "changeTime": 1568700773701,
+            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9747,
+            "modifiedTime": 1568700773707,
+            "changeTime": 1568700773707,
+            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Market__c-Market Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Market__c-Market Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2915,
+            "modifiedTime": 1568700773713,
+            "changeTime": 1568700773713,
+            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9771,
+            "modifiedTime": 1568700773719,
+            "changeTime": 1568700773719,
+            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Reservation__c-Reservation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Reservation__c-Reservation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3469,
+            "modifiedTime": 1568700773726,
+            "changeTime": 1568700773726,
+            "contentHash": "ef0d158f9e97eed027ff89ee8453c0c9f2413a4c"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Space__c-Space Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Space__c-Space Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3208,
+            "modifiedTime": 1568700773730,
+            "changeTime": 1568700773730,
+            "contentHash": "5ec5808fc48457ce90c31d4d5774b9bc94178a98"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9747,
+            "modifiedTime": 1568700773740,
+            "changeTime": 1568700773740,
+            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8982,
+            "modifiedTime": 1568700773753,
+            "changeTime": 1568700773753,
+            "contentHash": "e55427aa705f2c681bf3cac65b1cb477db41c3ff"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8986,
+            "modifiedTime": 1568700773761,
+            "changeTime": 1568700773761,
+            "contentHash": "b7a367cc56c4116fafc9bbc28f7814cc421e7223"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24842,
+            "modifiedTime": 1568700773777,
+            "changeTime": 1568700773777,
+            "contentHash": "f0cb1fec3220b223163a9cbd6b35d31100d63997"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9322,
+            "modifiedTime": 1568700773787,
+            "changeTime": 1568700773787,
+            "contentHash": "827f12d598dad0633f667ab6be60f6e0e63fa661"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1568700773639,
+            "changeTime": 1568700773639,
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1568700773651,
+            "changeTime": 1568700773651,
+            "contentHash": "0ff9e90f61243a7eeb33f2abb884fc6a18867054"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1568700773691,
+            "changeTime": 1568700773691,
+            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Market__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1568700773652,
+            "changeTime": 1568700773652,
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1568700773663,
+            "changeTime": 1568700773663,
+            "contentHash": "641de536c2ed4ba826917cf424c10bce434ff161"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Space__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1568700773666,
+            "changeTime": 1568700773666,
+            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1568700773680,
+            "changeTime": 1568700773680,
+            "contentHash": "b62655c5aa63e2a96a2c0536a4d4441a2f70bc56"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Reservation__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1568700773683,
+            "changeTime": 1568700773683,
+            "contentHash": "c00219b746646687d34423155b1e29fd2ffa96db"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Contact/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1568700773691,
+            "changeTime": 1568700773691,
+            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Contact",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1568700773691,
+            "changeTime": 1568700773691,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1568700773740,
+            "changeTime": 1568700773740,
+            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SalesForce/easy-spaces-lwc/myeslwc/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1568700773787,
+            "changeTime": 1568700773787,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
